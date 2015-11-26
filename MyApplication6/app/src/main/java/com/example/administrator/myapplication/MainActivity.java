@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         mbtn.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "000000" , Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "1234" , Toast.LENGTH_LONG).show();
             }
         });
 
