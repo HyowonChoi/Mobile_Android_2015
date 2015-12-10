@@ -1,4 +1,5 @@
 package com.example.administrator.generic;
+
 import android.content.Context;
 import android.location.Location;
 import android.location.LocationListener;
